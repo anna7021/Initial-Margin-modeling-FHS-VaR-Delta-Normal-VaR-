@@ -1,0 +1,6 @@
+contract_code,asset_class,contract_multiplier,bid_ask_bps,participation_rate
+TTF,Energy,720,5.0,0.15
+NBP,Energy,300,6.0,0.12
+BRENT,Energy,1000,3.0,0.2
+EURIBOR,Financials,2500,0.8,0.25
+SONIA,Financials,2500,0.8,0.25
